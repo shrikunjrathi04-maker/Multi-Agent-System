@@ -1,0 +1,41 @@
+
+# ==========================================
+# MULTI-AGENT RESEARCH SYSTEM
+# ==========================================
+
+# LangChain & LCEL
+langchain
+langchain-core
+langchain-text-splitters
+
+# Multi-Agent Framework & ReAct
+langgraph
+
+# LLM Providers
+langchain-openai
+langchain-mistralai
+langchain-huggingface
+
+# Tavily Search Tool
+langchain-tavily
+
+# Web Scraping
+beautifulsoup4
+lxml
+requests
+httpx
+
+# Environment Variables & Configuration
+python-dotenv
+pydantic
+
+# Reliability
+tenacity
+
+# LangSmith Monitoring
+langsmith
+
+# Development & Testing
+pytest
+ruff
+
