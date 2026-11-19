@@ -40,3 +40,7 @@ langsmith
 pytest
 ruff
 
+streamlit
+langchain-groq
+tavily-python
+rich
