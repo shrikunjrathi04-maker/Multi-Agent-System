@@ -15,6 +15,7 @@ langgraph
 langchain-openai
 langchain-mistralai
 langchain-huggingface
+langchain-groq
 
 # Tavily Search Tool
 langchain-tavily
